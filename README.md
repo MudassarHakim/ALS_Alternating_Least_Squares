@@ -30,7 +30,7 @@ We use the **MovieLens 100K dataset** — containing 100,000 real ratings given 
 
 ---
 
-## 🧠 What is ALS?
+## What is ALS?
 
 **ALS (Alternating Least Squares)** is a **collaborative filtering** algorithm that predicts missing ratings in a large, sparse user–item matrix.
 
@@ -44,7 +44,7 @@ ALS helps us **fill in those blanks** intelligently.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### Step 1: Input Data
 The dataset looks like this:
